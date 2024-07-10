@@ -1,6 +1,6 @@
-Completed **Blue Team Labs Online** challenges pertaining to incident response.
+# BTLO Incident Response Challenges
 
-# Incident Response
+Completed **Blue Team Labs Online** challenges pertaining to incident response.
 
 ## ATT&CK
 
