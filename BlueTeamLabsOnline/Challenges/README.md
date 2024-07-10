@@ -1,6 +1,6 @@
 Completed **Blue Team Labs Online** challenges pertaining to incident response.
 
-# Forensic Analysis
+# Incident Response
 
 ## ATT&CK
 
