@@ -40,3 +40,30 @@ We have collected Sysmon event logs (both in .json and .csv) from Terry's laptop
 - Linux CLI
 
 <a href="https://blueteamlabs.online/achievement/share/76960/10">View Achievement</a>
+
+## MINER
+
+### Scenario
+
+Our detection team reported that they receive an IDS alert related to reconnaissance but they were unable to read the traffic as it was encrypted. Pcap files and analysis tools are available on the Desktop. 
+
+### Tools
+
+- Network Miner
+- Wireshark
+
+<a href="https://blueteamlabs.online/achievement/share/76960/16">View Achievement</a>
+
+## GHOSTED
+
+### Scenario
+
+WeLoveDogz LLC does not have enough funds for a testing environment and their one-man IT department, John, set up a new server straight into production while still being configured. Unfortunately the server got compromised and John does not have clue how this happened. Luckily, he was able to obtain a packet capture, a log from Suricata IDS/IPS and a TTY report from auditd running on the system. Help John understand how his system got compromised! 
+
+### Tools
+
+- Wireshark
+- OSINT
+- Linux CLI
+
+<a href="https://blueteamlabs.online/achievement/share/76960/51">View Achievement</a>
