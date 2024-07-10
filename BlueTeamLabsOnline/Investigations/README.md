@@ -24,3 +24,19 @@ You have NetWitness and Wireshark in your toolkit to help find out what happened
 - CyberChef
 
 <a href="https://blueteamlabs.online/achievement/share/76960/6">View Achievement</a>
+
+## PRETIUM
+
+### Scenario
+
+Like every other day, Terry logged in and began working on his corporate laptop, but after a while he noticed several command prompts open and close without him doing anything. He suspects that his laptop has been infected with malware. He reports to the IT team to understand what's happening.
+
+We have collected Sysmon event logs (both in .json and .csv) from Terry's laptop and network traffic in the form of a packet capture file to support the investigation. Use ELK or Linux CLI to analyze the retrieved Sysmon logs and use wireshark-gtk for analyzing the PCAP. 
+
+### Tools
+
+- ELK
+- wireshark-gtk
+- Linux CLI
+
+<a href="https://blueteamlabs.online/achievement/share/76960/10">View Achievement</a>
